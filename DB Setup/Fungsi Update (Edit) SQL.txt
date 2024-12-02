@@ -1,0 +1,25 @@
+--- UPDATE ---
+CREATE OR REPLACE FUNCTION edit_karyawan(
+    _id_kar CHARACTER VARYING,
+    _nama CHARACTER VARYING,
+    _id_dept CHARACTER VARYING
+)
+RETURNS int AS
+$$
+BEGIN
+    IF EXISTS (
+        SELECT 1 FROM karyawan
+        WHERE id_kar = _id_kar
+    )
+    THEN 
+        UPDATE karyawan
+        SET nama_kar = _nama,
+            id_dept = _id_dept
+        WHERE id_kar = _id_kar;
+        RETURN 200;
+    ELSE
+        RETURN 404;
+    END IF;
+END;
+$$
+LANGUAGE plpgsql;

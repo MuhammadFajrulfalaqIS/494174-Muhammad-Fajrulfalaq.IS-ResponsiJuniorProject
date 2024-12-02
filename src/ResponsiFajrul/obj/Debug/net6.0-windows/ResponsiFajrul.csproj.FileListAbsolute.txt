@@ -1,0 +1,52 @@
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.AssemblyReference.cache
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.Form1.resources
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.GenerateResource.cache
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.AssemblyInfoInputs.cache
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.AssemblyInfo.cs
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.exe
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.deps.json
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.runtimeconfig.json
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.pdb
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.CopyComplete
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\refint\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.pdb
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.genruntimeconfig.cache
+C:\Users\Muhammad Fajrulfalaq\ResponsiFajrul\obj\Debug\net6.0-windows\ref\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.exe
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.deps.json
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.runtimeconfig.json
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\ResponsiFajrul.pdb
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.AssemblyReference.cache
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.g.resources
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.Form1.resources
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.Properties.Resources.resources
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.GenerateResource.cache
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.AssemblyInfoInputs.cache
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.AssemblyInfo.cs
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.csproj.CopyComplete
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\refint\ResponsiFajrul.dll
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.pdb
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ResponsiFajrul.genruntimeconfig.cache
+C:\Users\Muhammad Fajrulfalaq\494174_Muhammad Fajrulfalaq I.S_Responsi 2\src\ResponsiFajrul\obj\Debug\net6.0-windows\ref\ResponsiFajrul.dll

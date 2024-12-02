@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS public.departemen
+(
+    id_dept character varying COLLATE pg_catalog."default" NOT NULL,
+    nama_dept character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT departemen_pkey PRIMARY KEY (id_dept)
+);

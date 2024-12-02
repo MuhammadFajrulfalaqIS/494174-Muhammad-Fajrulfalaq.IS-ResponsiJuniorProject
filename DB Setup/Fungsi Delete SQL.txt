@@ -1,0 +1,21 @@
+--- DELETE ---
+CREATE OR REPLACE FUNCTION delete_karyawan(
+    _id_karyawan CHARACTER VARYING
+)
+RETURNS int AS
+$$
+BEGIN
+    IF EXISTS (
+        SELECT 1 FROM karyawan
+        WHERE id_kar = _id_karyawan
+    )
+    THEN 
+        DELETE FROM karyawan
+        WHERE id_kar = _id_karyawan;
+        RETURN 200;
+    ELSE
+        RETURN 404;
+    END IF;
+END;
+$$
+LANGUAGE plpgsql;

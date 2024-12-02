@@ -1,0 +1,16 @@
+BEGIN;
+CREATE TABLE IF NOT EXISTS public.karyawan
+(
+    id_kar character varying COLLATE pg_catalog."default" NOT NULL DEFAULT ('ID-'::text || (nextval('karyawan_seq'::regclass))::text),
+    nama_kar character varying COLLATE pg_catalog."default" NOT NULL,
+    id_dept character varying COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT karyawan_pkey PRIMARY KEY (id_kar)
+);
+
+ALTER TABLE IF EXISTS public.karyawan
+    ADD CONSTRAINT id_dept_fk FOREIGN KEY (id_dept)
+    REFERENCES public.departemen (id_dept) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION;
+
+END;
